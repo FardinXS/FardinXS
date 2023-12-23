@@ -1,1 +1,1 @@
-sub yes idiot
+sub to yes idiot
